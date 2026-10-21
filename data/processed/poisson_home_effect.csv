@@ -1,0 +1,5 @@
+league,home_goal_multiplier,home_ci_low,home_ci_high,no_crowd_home_multiplier,interaction_p
+Premier League,1.299,1.264,1.335,1.092,0.0012
+Championship,1.275,1.245,1.305,1.172,0.081
+League One,1.243,1.214,1.272,1.058,0.0029
+League Two,1.214,1.186,1.243,1.147,0.32

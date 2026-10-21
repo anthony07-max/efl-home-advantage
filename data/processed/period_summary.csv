@@ -1,0 +1,4 @@
+period,matches,home_win_pct,away_win_pct,home_ppg,away_ppg,mean_goal_diff,home_yellows,away_yellows,home_fouls,away_fouls
+No crowds (Jun 2020-May 2021),2236,40.295,35.063,1.455,1.298,0.126,1.456,1.432,12.338,12.077
+"With crowds, after",10180,43.487,30.943,1.56,1.184,0.264,1.709,2.008,10.774,11.364
+"With crowds, before",30076,43.639,29.515,1.578,1.154,0.305,1.338,1.693,11.058,11.699

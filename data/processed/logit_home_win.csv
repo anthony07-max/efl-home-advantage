@@ -1,0 +1,7 @@
+,odds_ratio,p_value
+Intercept,0.8574,0.0
+"C(league, Treatment('Premier League'))[T.Championship]",0.9165,0.0029
+"C(league, Treatment('Premier League'))[T.League One]",0.9186,0.0038
+"C(league, Treatment('Premier League'))[T.League Two]",0.8593,0.0
+no_crowd,0.8772,0.0037
+season_idx,0.9984,0.3197

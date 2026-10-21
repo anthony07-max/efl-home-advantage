@@ -1,0 +1,13 @@
+league,period,matches,home_win_pct,home_ppg,away_ppg,mean_goal_diff,home_yellows,away_yellows,ppg_gap
+Championship,No crowds (Jun 2020-May 2021),660,40.606,1.468,1.282,0.173,1.398,1.4,0.186
+Championship,"With crowds, after",2760,43.551,1.567,1.172,0.287,1.709,2.051,0.395
+Championship,"With crowds, before",8172,43.6,1.587,1.134,0.32,1.375,1.748,0.453
+League One,No crowds (Jun 2020-May 2021),552,40.399,1.451,1.31,0.074,1.574,1.495,0.141
+League One,"With crowds, after",2760,43.986,1.57,1.179,0.271,1.7,1.975,0.391
+League One,"With crowds, before",8128,43.553,1.575,1.157,0.286,1.297,1.672,0.418
+League Two,No crowds (Jun 2020-May 2021),552,40.399,1.486,1.241,0.161,1.429,1.397,0.245
+League Two,"With crowds, after",2760,42.464,1.541,1.191,0.233,1.682,1.981,0.35
+League Two,"With crowds, before",8168,41.773,1.526,1.201,0.252,1.265,1.593,0.325
+Premier League,No crowds (Jun 2020-May 2021),472,39.619,1.407,1.375,0.081,1.43,1.443,0.032
+Premier League,"With crowds, after",1900,44.158,1.564,1.197,0.268,1.761,2.03,0.367
+Premier League,"With crowds, before",5608,46.541,1.643,1.11,0.39,1.452,1.788,0.533
